@@ -15,5 +15,6 @@
   - GraphQL
   - PostgreSQL
   - Prisma
+  - Jest
 - infra:
   - Azure
