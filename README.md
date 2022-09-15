@@ -1,4 +1,4 @@
-# doggie-moment
+# doggie-moments
 
 ### visions
 1. at the end of a day, app will send user a notification and ask user write what happen to their dog on that day like a diary
