@@ -1,2 +1,2 @@
-console.log('hello world from javascript')
+console.log('from 1.0 hello world from javascript')
 
